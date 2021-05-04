@@ -1,0 +1,8 @@
+codigoComercio,region,comuna,calle,numeroDeCalle,numeroLocalCasaDepto,horaAperturaAM,horaCierreAM,horaAperturaPM,horaCierrePM,diasDeAtencion,nombre,apellido,telefonoPrincipal,telefonoSecundario,mail,medioRespuesta,cantidad,codigoInterno,tipo,ResultadoName,ResultadoMessage
+39101327,13,1356,Morande,626,2004,09:00:00,14:00:00,13:00:00,18:00:00,LUNES_A_VIERNES,Hector,Oliveros,983587814,,holiveros@transbank.cl,EMAIL,5,ROLLO_PAPEL_TERM_48X13X17_M,INSUMO,TRUE,TRUE
+,13,1356,Morande,626,2004,09:00:00,14:00:00,13:00:00,18:00:00,LUNES_A_VIERNES,Hector,Oliveros,983587814,,holiveros@transbank.cl,EMAIL,5,ROLLO_PAPEL_TERM_48X13X17_M,INSUMO,FIELD_VALIDATION_ERROR,Algunos campos son invalidos
+39101327,,1356,Morande,626,2004,09:00:00,14:00:00,13:00:00,18:00:00,LUNES_A_VIERNES,Hector,Oliveros,983587814,,holiveros@transbank.cl,EMAIL,5,ROLLO_PAPEL_TERM_48X13X17_M,INSUMO,FIELD_VALIDATION_ERROR,Algunos campos son invalidos
+39101327,13,,Morande,626,2004,09:00:00,14:00:00,13:00:00,18:00:00,LUNES_A_VIERNES,Hector,Oliveros,983587814,,holiveros@transbank.cl,EMAIL,5,ROLLO_PAPEL_TERM_48X13X17_M,INSUMO,FIELD_VALIDATION_ERROR,Algunos campos son invalidos
+39101327,13,,,626,2004,09:00:00,14:00:00,13:00:00,18:00:00,LUNES_A_VIERNES,Hector,Oliveros,983587814,,holiveros@transbank.cl,EMAIL,5,ROLLO_PAPEL_TERM_48X13X17_M,INSUMO,FIELD_VALIDATION_ERROR,Algunos campos son invalidos
+39101327,13,1356,,626,2004,09:00:00,14:00:00,13:00:00,18:00:00,LUNES_A_VIERNES,Hector,Oliveros,983587814,,holiveros@transbank.cl,EMAIL,20,ROLLO_PAPEL_TERM_48X13X17_M,INSUMO,TRUE,TRUE
+39101327,,,Morande,626,2004,09:00:00,14:00:00,13:00:00,18:00:00,LUNES_A_VIERNES,Hector,Oliveros,983587814,,holiveros@transbank.cl,EMAIL,5,ROLLO_PAPEL_TERM_48X13X17_M,INSUMO,TRUE,TRUE
